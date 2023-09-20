@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <ion-app>
+    <app-menu />
+  </ion-app>
 </template>
