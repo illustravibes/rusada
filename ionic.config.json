@@ -1,5 +1,7 @@
 {
   "name": "Rusada-Apps",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }

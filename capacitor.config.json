@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Rusada-Apps",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
